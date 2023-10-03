@@ -1,0 +1,11 @@
+{
+  "name": "CodePublish",
+  "displayName": "CodePublish",
+  "description": "",
+  "version": "1.0",
+  "author": {
+    "name": "verket"
+  },
+  "icon": "",
+  "main": "main.js"
+}
